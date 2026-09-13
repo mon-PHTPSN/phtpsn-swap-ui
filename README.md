@@ -71,7 +71,7 @@ yarn check-types
 yarn build
 ```
 
-The static site is generated in `out/`. Every push to `main` deploys that output through GitHub Actions and GitHub Pages.
+The static site is generated in `out/`. The public instance is served by GitHub Pages from the repository's `gh-pages` branch.
 
 ## Optional environment variables
 
