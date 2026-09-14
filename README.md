@@ -2,7 +2,7 @@
 
 PHT Exchange is a public, client-side interface for buying **PHTPSN Token (PHT)** with **AVAX** on the Avalanche Fuji testnet. Trades use the live PHT/WAVAX liquidity pool on Pangolin V2.
 
-- Live site: <https://phtpsn.github.io/phtpsn-swap-ui/>
+- Live site: <https://mon-phtpsn.github.io/phtpsn-swap-ui/>
 - Network: Avalanche Fuji C-Chain (chain ID `43113`)
 - PHT token: [`0x77Ae25df9535AeaFcd401Aba9a44a6c64ca2BAAA`](https://testnet.snowtrace.io/address/0x77Ae25df9535AeaFcd401Aba9a44a6c64ca2BAAA)
 - PHT/WAVAX pair: [`0x45F3576b09F0e2a45d7eEc8Ff6CfB7D7FDc14Eaf`](https://testnet.snowtrace.io/address/0x45F3576b09F0e2a45d7eEc8Ff6CfB7D7FDc14Eaf)
@@ -11,7 +11,7 @@ PHT Exchange is a public, client-side interface for buying **PHTPSN Token (PHT)*
 
 ## Use the exchange
 
-1. Open the [live site](https://phtpsn.github.io/phtpsn-swap-ui/).
+1. Open the [live site](https://mon-phtpsn.github.io/phtpsn-swap-ui/).
 2. Connect MetaMask or another supported wallet.
 3. Switch the wallet to Avalanche Fuji when prompted.
 4. Enter the amount of AVAX to spend and review the live PHT estimate.

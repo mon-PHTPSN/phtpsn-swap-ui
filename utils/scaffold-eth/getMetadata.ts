@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://phtpsn.github.io/phtpsn-swap-ui";
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://mon-phtpsn.github.io/phtpsn-swap-ui";
 const titleTemplate = "%s | PHT Exchange";
 
 export const getMetadata = ({
